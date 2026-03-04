@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 ALLtvLive
+# 📺 Balknatv-live
 
 ### Free Live TV Channels — Anytime, Anywhere
 
@@ -13,7 +13,7 @@ Watch **10,000+** free live TV channels from around the world in one place.
 [![GitHub](https://img.shields.io/github/stars/devSahinur/ALLtvLive?style=social)](https://github.com/devSahinur/ALLtvLive)
 [![Live Demo](https://img.shields.io/badge/Live-alltvlive.vercel.app-00ff9d?logo=vercel)](https://alltvlive.vercel.app)
 
-**[🔴 Live Demo → alltvlive.vercel.app](https://alltvlive.vercel.app)**
+**[🔴 Live Demo → Balkantv-live.vercel.app](https://alltvlive.vercel.app)**
 
 ---
 
@@ -36,7 +36,7 @@ Watch **10,000+** free live TV channels from around the world in one place.
 
 ## 🖼️ Screenshots
 
-> Visit the live app to see ALLtvLive in action.
+> Visit the live app to see Balkantv-live in action.
 
 ## 🛠️ Tech Stack
 
@@ -91,8 +91,8 @@ alltvlive/
 
 ```bash
 # Clone the repository
-git clone https://github.com/devSahinur/ALLtvLive.git
-cd ALLtvLive
+git clone (https://github.com/mak-iptv/balkantv-live.git)](https://github.com/mak-iptv/balkantv-live.git)
+cd Balkantv-live
 
 # Install dependencies
 npm install
@@ -112,7 +112,7 @@ npm start
 
 ## 🌐 Deploy to Vercel
 
-The easiest way to deploy ALLtvLive:
+The easiest way to deploy Balkantv-live:
 
 1. Push this repo to GitHub
 2. Go to [vercel.com/new](https://vercel.com/new)
@@ -121,11 +121,11 @@ The easiest way to deploy ALLtvLive:
 
 No environment variables needed — the app uses public APIs.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/devSahinur/ALLtvLive)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=(https://github.com/mak-iptv/balkantv-live))
 
 ## 📡 Data Source
 
-ALLtvLive uses the public APIs provided by [iptv-org](https://github.com/iptv-org/iptv):
+Balkantv-live uses the public APIs provided by [iptv-org](https://github.com/iptv-org/iptv):
 
 | API Endpoint | Description |
 |---|---|
@@ -170,8 +170,8 @@ ALLtvLive does not host or provide any video content. It aggregates publicly ava
 
 <div align="center">
 
-**Built with ❤️ by [devSahinur](https://github.com/devSahinur)**
+**Built with ❤️ by [Balkantv-live]((https://github.com/mak-iptv/balkantv-live.git))**
 
-[GitHub](https://github.com/devSahinur/ALLtvLive) · [Live Demo](https://alltvlive.vercel.app) · [Report Bug](https://github.com/devSahinur/ALLtvLive/issues)
+[GitHub]](https://github.com/mak-iptv/balkantv-live.git)) · [Live Demo](https://alltvlive.vercel.app) · [Report Bug](https://github.com/mak-iptv/balkantv-live.git)/issues)
 
 </div>
