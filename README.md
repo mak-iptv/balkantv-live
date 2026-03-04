@@ -13,7 +13,7 @@ Watch **10,000+** free live TV channels from around the world in one place.
 [![GitHub](https://img.shields.io/github/stars/devSahinur/ALLtvLive?style=social)](https://github.com/devSahinur/ALLtvLive)
 [![Live Demo](https://img.shields.io/badge/Live-alltvlive.vercel.app-00ff9d?logo=vercel)](https://alltvlive.vercel.app)
 
-**[🔴 Live Demo → Balkantv-live.vercel.app](https://alltvlive.vercel.app)**
+**[🔴 Live Demo → Balkantv-live.vercel.app](https://balkantv-live.vercel.app)**
 
 ---
 
